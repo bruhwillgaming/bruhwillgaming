@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I am bruh, I like to code, game, and do random stuff.
 this is my alt btw
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,java,nodejs,html,css,js,docker,git,powershell,npm,mint,linux,linkedin,gitlab,github,dotnet,discordjs,bots,discord,cloudflare,blender,au,ae,androidstudio,apple,arch,arduino&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,java,nodejs,html,css,js,docker,git,powershell,npm,mint,linux,linkedin,gitlab,github,dotnet,discordjs,bots,discord,cloudflare,blender,au,ae,androidstudio,apple,arch,arduino&perline=7)](https://skillicons.dev)
